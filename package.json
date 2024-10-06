@@ -1,0 +1,19 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "srtrace",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "express-handlebars": "^8.0.1"
+  }
+}
